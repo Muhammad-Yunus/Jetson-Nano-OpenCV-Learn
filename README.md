@@ -10,3 +10,15 @@
     - Split & Merge Image
     - Crop & Resize Image
     - Change Colorspace
+
+- Pertemuan 3 : OpenCV Image Processing ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_3/pertemuan_3.zip))
+    - Image Smoothing / Blurring
+        - Averaging
+        - Gaussian Blur
+        - Median Filter
+        - Bilateral Filter
+        - CUDA Module Implementation
+    - Image Thresholding
+        - Simple Thresholding
+        - Adaptive Thresholding
+        - Otsu's Thresholding
