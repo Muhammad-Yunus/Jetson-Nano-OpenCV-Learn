@@ -22,3 +22,11 @@
         - Simple Thresholding
         - Adaptive Thresholding
         - Otsu's Thresholding
+        - CUDA Module Implementation
+
+- Pertemuan 4 : OpenCV Image Processing ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_4/pertemuan_4.zip))
+    - Image Blending
+    - Image Bitwise Operation
+    - Range Thresholding
+    - Canny Edge Detection
+    - CUDA Module Implementation
