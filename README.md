@@ -30,3 +30,13 @@
     - Range Thresholding
     - Canny Edge Detection
     - CUDA Module Implementation
+
+- Pertemuan 5 : OpenCV Contour Detection ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_5/pertemuan_5.zip))
+    - Contour
+        - Find Contour 
+        - Draw Contour 
+        - Contour Hierarchy 
+    - Contour Feature
+        - Contour Feature 
+        - Contour Property
+        - Contour Additional Function 
