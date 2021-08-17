@@ -40,3 +40,12 @@
         - Contour Feature 
         - Contour Property
         - Contour Additional Function 
+
+- Pertemuan 6 : OpenCV Contour Application & Hough Transform ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_6/pertemuan_6.zip))
+    - Contour Application
+        - Visual Inspection Engine based OpenCV Contour 
+    - Hough Transform
+        - Hough Lines
+        - Hough Circles
+        - Hough Transform Application
+        - CUDA Hough Transform 
