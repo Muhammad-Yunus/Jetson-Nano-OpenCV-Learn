@@ -49,3 +49,13 @@
         - Hough Circles
         - Hough Transform Application
         - CUDA Hough Transform 
+
+- Pertemuan 7 : OpenCV Morphological Transform ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_7/pertemuan_7.zip))
+    - Basic Morphological Transform 
+        - Eroding 
+        - Dilating
+    - Advance Morphological Transform 
+        - Opening 
+        - Closing
+        - Morphological Gradient
+    - CUDA Implementation
