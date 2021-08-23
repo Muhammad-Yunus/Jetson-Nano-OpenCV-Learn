@@ -59,3 +59,13 @@
         - Closing
         - Morphological Gradient
     - CUDA Implementation
+
+- Pertemuan 8 : OpenCV Geometric Transform ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_8/pertemuan_8.zip))
+    - Basic Geometric Transform 
+        - Scaling / Resizing
+        - Translation
+        - Rotation
+    - Advance Morphological Transform
+        - Affine Transform  
+        - Perspective Transform (Projection)
+    - CUDA Implementation
