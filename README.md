@@ -69,3 +69,13 @@
         - Affine Transform  
         - Perspective Transform (Projection)
     - CUDA Implementation
+
+- Pertemuan 9 : OpenCV Image Pyramid & Image Gradient ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_9/pertemuan_9.zip))
+    - Image Pyramid
+        - Gaussian Pyramid
+        - Laplacian Pyramid
+        - CUDA Module Image Pyramid
+    - Image Gradient
+        - Sobel & Scharr Gradient  
+        - Laplacian Gradient
+        - CUDA Module Image Gradient
