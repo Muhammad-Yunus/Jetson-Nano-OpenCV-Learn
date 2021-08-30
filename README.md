@@ -83,7 +83,7 @@
 - Pertemuan 10 : OpenCV Image Transformation & Image Histogram ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_10/pertemuan_10.zip))
     - Image Transformation
         - Fourier Transform (DFT & IDFT)
-            - Usecase : HPF (High Pass Filter) of Spectrum to generate Edge Image 
+            - Usecase : HPF (High Pass Filter) of Spectrum to generate edged image 
             - Usecase : LPF (Low Pass Filter) of Spectrum to generate blurred image
         - Performance Optimization (DFT)
         - CUDA Module Implementation
