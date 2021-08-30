@@ -79,3 +79,13 @@
         - Sobel & Scharr Gradient  
         - Laplacian Gradient
         - CUDA Module Image Gradient
+
+- Pertemuan 10 : OpenCV Image Transformation & Image Histogram ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_10/pertemuan_10.zip))
+    - Image Transformation
+        - Fourier Transform (DFT & IDFT)
+        - 
+        - CUDA Module Implementation
+    - Image Histogram
+        - Find & Plot Histogram  
+        - Histogram Equalization (Global Contrast & CLAHE)
+        - CUDA Module Implementation
