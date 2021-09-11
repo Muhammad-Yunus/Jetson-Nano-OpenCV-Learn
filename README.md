@@ -91,3 +91,13 @@
         - Find & Plot Histogram  
         - Histogram Equalization (Global Contrast & CLAHE)
         - CUDA Module Implementation
+- Pertemuan 11 : OpenCV Feature Detection, Feature Description & Feature Matching ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_11/pertemuan_11.zip))
+    - Feature Detection & Feature Description
+        - Harris Corner Detection
+        - Shi-Tomasi Corner Detector & Good Features to Track
+        - Introduction to SIFT (Scale-Invariant Feature Transform)
+        - Introduction to SURF (Speeded-Up Robust Features)
+        - FAST Algorithm for Corner Detection
+    - Feature Matching
+        - Brute-Force based matcher
+        - FLANN based matcher
