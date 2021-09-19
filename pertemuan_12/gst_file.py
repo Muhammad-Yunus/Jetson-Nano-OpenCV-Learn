@@ -1,0 +1,2 @@
+def gst_file_loader(filename):
+    return 'filesrc location=' + filename + ' ! qtdemux ! queue ! h264parse ! omxh264dec ! nvvidconv ! video/x-raw,format=BGRx ! queue ! videoconvert ! queue ! video/x-raw, format=BGR ! appsink'

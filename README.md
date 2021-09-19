@@ -101,3 +101,8 @@
     - Feature Matching
         - Brute-Force based matcher
         - FLANN based matcher
+- Pertemuan 12 : OpenCV Feature Detection, Feature Description & Feature Matching - Part 2 ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_12/pertemuan_12.zip))
+    - CUDA implementation for Feature Detection and Description
+    - CUDA Implementation for Feature Matching
+    - Feature Mathing and Homography for Object Detection
+    - OpenCV Object Tracking
