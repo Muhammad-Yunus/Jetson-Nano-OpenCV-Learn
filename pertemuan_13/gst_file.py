@@ -1,0 +1,2 @@
+def gst_file_loader(filename, useRotate90=True):
+    return 'filesrc location=' + filename + ' ! qtdemux ! queue ! h264parse ! omxh264dec ! nvvidconv ' + ('flip-method=3 ' if useRotate90 else '') + ' ! video/x-raw,format=BGRx ! queue ! videoconvert ! queue ! video/x-raw, format=BGR ! appsink'
