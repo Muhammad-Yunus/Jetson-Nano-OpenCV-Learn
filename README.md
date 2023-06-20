@@ -96,7 +96,7 @@
 - Pertemuan 12 : OpenCV Feature Detection, Feature Description & Feature Matching - Part 2 ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_12/pertemuan_12.zip))
     - CUDA implementation for Feature Detection and Description
     - CUDA Implementation for Feature Matching
-    - Feature Mathing and Homography for Object Detection
+    - Feature Matching and Homography for Object Detection
     - OpenCV Object Tracking<br><br>
 - Pertemuan 13 : Final Implementation ([Download Materi](https://github.com/Muhammad-Yunus/Jetson-Nano-OpenCV-Learn/raw/main/pertemuan_13/pertemuan_13.zip))
     - OpenCV Video Decoding
